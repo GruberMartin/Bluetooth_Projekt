@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BluetoothController</string>
+    <string name="UserHintMainActivity">Suchen Sie das gewünschte Gerät</string>
+    <string name="btnShowPairedDevicesMainActivity">Verbundene Geräte anzeigen</string>
+    <string name="bluetoothOkMsgPairedDevices">Bluettoth ist eingeschaltet</string>
+    <string name="listOfFoundedDevicesPairedDevices">Folgende Geräte wurden gefunden</string>
+    <string name="noDevicesFoundedPairedDevices">Es wurden keine Geräte gefunden!</string>
+</resources>
